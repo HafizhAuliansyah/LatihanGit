@@ -2,6 +2,6 @@
 
 using namespace std;
 
-int main(){
-	cout << "ini latihan.h" << endl;
+void conv_to_biner(int angka, char* arr){
+	cout << "Konversi to biner " << endl;
 }
